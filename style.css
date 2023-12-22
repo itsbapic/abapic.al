@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'bapic';
+  src: url('https://raw.githubusercontent.com/itsbapic/bapicAssets/main/bapic%20new%20almost%20done.ttf');
+}
+
+html, body {
+  width: 100vw;
+  overflow: hidden;
+  overflow-wrap: break-word; 
+}
+body {
+  background-color: black;
+}
+
+h2 {
+  width: 100vw;
+  overflow-wrap: break-word;
+  color: white;
+  font-size: 3rem;
+  font-family: 'bapic', monospace;
+  margin: 0;
+}
+span {
+  text-align: center;
+}
